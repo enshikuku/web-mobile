@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter WebView Example',
+      title: 'CALATECH',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
@@ -26,7 +26,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  final String url = 'https://calatech.co.ke';
+  final String url = 'https://schedule.calatech.co.ke';
 
   @override
   void initState() {
