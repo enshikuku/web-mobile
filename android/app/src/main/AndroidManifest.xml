@@ -2,7 +2,7 @@
     <uses-permission android:name="android.permission.INTERNET"/>
     
     <application
-        android:label="CALA"
+        android:label="Havillah Smart Enviros"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         
